@@ -1,0 +1,9 @@
+---
+title: "Notes for Open Course: Deterministic Optimization"
+output: html_notebook
+date: "`r Sys.Date()`"
+---
+
+# Week 1
+## Introduction to optimization
+

@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.32.4" />
+
+
+<title>Notes for Open Course: Interactive Python Programming - A Hugo website</title>
+<meta property="og:title" content="Notes for Open Course: Interactive Python Programming - A Hugo website">
+
+
+
+  
+
+
+
+
+
+
+
+
+<link href='//cdn.bootcss.com/highlight.js/9.11.0/styles/github.min.css' rel='stylesheet' type='text/css' />
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/">About</a></li>
+    
+    <li><a href="https://github.com/zkwabm">GitHub</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">7 min read</span>
+    
+
+    <h1 class="article-title">Notes for Open Course: Interactive Python Programming</h1>
+
+    
+    <span class="article-date">2018/01/14</span>
+    
+
+    <div class="article-content">
+      
+
+<h1 id="notes-for-the-open-course-interactive-python-programming">Notes for the open course - Interactive Python Programming</h1>
+
+<h2 id="week-1-expressions">Week 1 - Expressions</h2>
+
+<h3 id="an-easy-environment-codeskulptor">An easy environment: Codeskulptor</h3>
+
+<ol>
+<li>Python2 version: <a href="http://www.codeskulptor.org">http://www.codeskulptor.org</a></li>
+<li>Python3 version: <a href="http://py3.codeskulptor.org/">http://py3.codeskulptor.org/</a></li>
+</ol>
+
+<h3 id="arithmetic-expressions">Arithmetic Expressions</h3>
+
+<pre><code class="language-python"># Arithmetic Expressions - numbers, operators, expressions
+
+print(3, -1, 3.14159, -2.8)
+</code></pre>
+
+<pre><code>3 -1 3.14159 -2.8
+</code></pre>
+
+<pre><code class="language-python"># numbers - two types, an integer or a decimal number 
+# two corresponding data types int() and float()
+print(type(3), type(3.14159))
+print(type(3.0))
+</code></pre>
+
+<pre><code>&lt;class 'int'&gt; &lt;class 'float'&gt;
+&lt;class 'float'&gt;
+</code></pre>
+
+<pre><code class="language-python"># we can convert between data types using int() and float()
+# note that int() takes the 'whole' part of a decimal number
+# float() applied to integers is boring
+print(int(3.14159), int(-2.8))
+print(float(3), float(-1))
+</code></pre>
+
+<pre><code>3 -2
+3.0 -1.0
+</code></pre>
+
+<pre><code class="language-python"># floating point number have around 15 decimal digits of accuracy 
+# pi is 3.1415926535897932384626433832795028841971...
+# square root of two is 1.4142135623730950488016887242096980785696...
+
+# approximation of pi, maintains around 15 decimal digits
+
+print(3.1415926535897932384626433832795028841971)
+
+# approximation of square root of two
+
+print(1.4142135623730950488016887242096980785696)
+</code></pre>
+
+<pre><code>3.141592653589793
+1.4142135623730951
+</code></pre>
+
+<pre><code class="language-python"># arithmetic operators
+# +   plus         addition
+# -   minus        subtraction
+# *   times        multiplication
+# /   divided by   division
+# **  power        exponentiation
+
+print (1 + 2, 3 - 4, 5 * 6, 2 ** 5)
+
+# if one operand is a decimal (float), the answer is decimal
+print(1.0 / 3, 5.0 / 2.0, -7 / 3.0, 4 / 2.0)
+
+# division in python 2: If both operands are ints, the answer is an int (rounded down)
+# in Python 3, the answer is decimal
+print (1 / 3, 5 / 2, -7 / 3, 4 / 2)
+
+</code></pre>
+
+<pre><code>3 -1 30 32
+0.3333333333333333 2.5 -2.3333333333333335 2.0
+0.3333333333333333 2.5 -2.3333333333333335 2.0
+</code></pre>
+
+<pre><code class="language-python"># expressions - number or a binary operator applied to two expressions
+# minus is also a unary operator and can be applied to a single expression
+print (1 + 2 * 3, 4.0 - 5.0 / 6.0, 7 * 8 + 9 * 10)
+
+# expressions are entered as sequence of numbers and operations
+# how are the number and operators grouped to form expressions?
+# operator precedence - 'please excuse my dear aunt sallie' = (), **, *, /, +, -
+print (1 * 2 + 3 * 4)
+print(2 + 12)
+
+# always manually group using parentheses when in doubt
+print (1 * (2 + 3) * 4)
+print (1 * 5 * 4)
+</code></pre>
+
+<pre><code>7 3.1666666666666665 146
+14
+14
+20
+20
+</code></pre>
+
+<h3 id="practice-exercise-for-expressions">Practice Exercise for Expressions</h3>
+
+<pre><code class="language-python"># 1 Miles to feet
+# There are 5280 feet in a mile. Write a Python statement that calculates and prints the number of feet in 13 miles.
+
+# Compute the number of feet corresponding to a number of miles.
+
+###################################################
+# Miles to feet conversion formula
+# Student should enter statement on the next line.
+
+print (13 * 5280)
+
+###################################################
+# Expected output
+# Student should look at the following comments and compare to printed output.
+
+#68640
+</code></pre>
+
+<pre><code>68640
+</code></pre>
+
+<pre><code class="language-python"># 2 Hours to seconds
+# Write a Python statement that calculates and prints the number of seconds in 7 hours, 21 minutes and 37 seconds.
+
+# Compute the number of seconds in a given number of hours, minutes, and seconds.
+
+###################################################
+# Hours, minutes, and seconds to seconds conversion formula
+# Student should enter statement on the next line.
+
+print (7 * 3600 + 21 * 60 + 37)
+
+###################################################
+# Expected output
+# Student should look at the following comments and compare to printed output.
+
+#26497
+</code></pre>
+
+<pre><code>26497
+</code></pre>
+
+<pre><code class="language-python"># 3 Perimeter of rectangle
+# The perimeter of a rectangle is 2w+2h, where w and h are the lengths of its sides. 
+# Write a Python statement that calculates and prints the length in inches of the perimeter of a rectangle with sides of length 4 and 7 inches.
+
+# Compute the length of a rectangle's perimeter, given its width and height.
+
+###################################################
+# Rectangle perimeter formula
+# Student should enter statement on the next line.
+
+print (2 * 4 + 2 * 7)
+
+###################################################
+# Expected output
+# Student should look at the following comments and compare to printed output.
+
+#22
+
+</code></pre>
+
+<pre><code>22
+</code></pre>
+
+<pre><code class="language-python"># 4 Area of rectangle
+# The area of a rectangle is wh, where w and h are the lengths of its sides.
+# Note that the multiplication operation is not shown explicitly in this formula. 
+# This is standard practice in mathematics, but not in programming. 
+# Write a Python statement that calculates and prints the area in square inches of a rectangle with sides of length 4 and 7 inches.
+
+# Compute the area of a rectangle, given its width and height.
+
+###################################################
+# Rectangle area formula
+# Student should enter statement on the next line.
+
+print (4 * 7)
+###################################################
+# Expected output
+# Student should look at the following comments and compare to printed output.
+
+#28
+</code></pre>
+
+<pre><code>28
+</code></pre>
+
+<pre><code class="language-python"># 5 Circumference of circle
+# The circumference of a circle is 2πr where r is the radius of the circle. 
+# Write a Python statement that calculates and prints the circumference in inches of a circle whose radius is 8 inches. 
+# Assume that the constant π=3.14.
+
+# Compute the circumference of a circle, given the length of its radius.
+
+###################################################
+# Circle circumference formula
+# Student should enter statement on the next line.
+
+print (2 * 3.14 * 8)
+
+###################################################
+# Expected output
+# Student should look at the following comments and compare to printed output.
+
+#50.24
+</code></pre>
+
+<pre><code>50.24
+</code></pre>
+
+<pre><code class="language-python"># 6 Area of circle
+# The area of a circle is πr2 where r is the radius of the circle. (The raised 2 in the formula is an exponent.) 
+# Write a Python statement that calculates and prints the area in square inches of a circle whose radius is 8 inches. 
+# Assume that the constant π=3.14.
+
+# Compute the area of a circle, given the length of its radius.
+
+###################################################
+# Circle area formula
+# Student should enter statement on the next line.
+
+print (3.14 * (8 ** 2))
+###################################################
+# Expected output
+# Student should look at the following comments and compare to printed output.
+
+#200.96
+
+</code></pre>
+
+<pre><code>200.96
+</code></pre>
+
+<pre><code class="language-python"># 7 Future Value
+# Given p dollars, the future value of this money when compounded yearly at a rate of r percent interest for y years is p(1+0.01r)^y.
+# Write a Python statement that calculates and prints the value of 1000 dollars compounded at 7 percent interest for 10 years.
+
+# Compute the future value of a given present value, annual rate, and number of years.
+
+###################################################
+# Future value formula
+# Student should enter statement on the next line.
+
+print (1000 * (1 + 0.01 * 7) ** 10)
+
+###################################################
+# Expected output
+# Student should look at the following comments and compare to printed output.
+
+#1967.15135729
+</code></pre>
+
+<pre><code>1967.1513572895665
+</code></pre>
+
+<pre><code class="language-python"># 8 Name tag
+# Write a single Python statement that combines the three strings &quot;My name is&quot;, &quot;Joe&quot; and &quot;Warren&quot; (plus a couple of other small strings) into one larger string &quot;My name is Joe Warren.&quot; and prints the result.
+
+# Compute a name tag, given the first and last name.
+
+###################################################
+# Name tag formula
+# Student should enter statement on the next line.
+
+print (&quot;My name is &quot; + &quot;Joe &quot; + &quot;Warren&quot; + &quot;.&quot;)
+###################################################
+# Expected output
+# Student should look at the following comments and compare to printed output.
+
+#My name is Joe Warren.
+</code></pre>
+
+<pre><code>My name is Joe Warren.
+</code></pre>
+
+<pre><code class="language-python"># 9 Name and age
+# Write a Python expression that combines the string &quot;Joe Warren is 52 years old.
+# &quot; from the string &quot;Joe Warren&quot; and the number 52 and then prints the result 
+# (Hint: Use the function str to convert the number into a string.)
+
+# Compute the statement about a person's name and age, given the person's name and age.
+
+###################################################
+# Name and age formula
+# Student should enter statement on the next line.
+print (&quot;Joe Warren&quot; + &quot; is &quot; + str(52) + &quot; years old.&quot;)
+
+
+###################################################
+# Expected output
+# Student should look at the following comments and compare to printed output.
+
+#Joe Warren is 52 years old.
+
+
+</code></pre>
+
+<pre><code>Joe Warren is 52 years old.
+</code></pre>
+
+<pre><code class="language-python"># 10 The distance between two points (x0,y0)
+# (x0,y0) and (x1,y1) is √(x0−x1)2+(y0−y1)^2. 
+# Write a Python statement that calculates and prints the distance between the points (2,2) and (5,6).
+
+# Compute the distance between the points (x0, y0) and (x1, y1).
+
+###################################################
+# Distance formula
+# Student should enter statement on the next line.
+
+# Hint: You need to use the power operation ** .
+
+print (((6 - 2) ** 2 + (5 - 2) ** 2) ** 0.5) 
+
+###################################################
+# Expected output
+# Student should look at the following comments and compare to printed output.
+
+#5.0
+</code></pre>
+
+<pre><code>5.0
+</code></pre>
+
+<pre><code class="language-python">
+</code></pre>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/highlight.min.js"></script>
+
+
+
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/r.min.js"></script>
+<script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/yaml.min.js"></script>
+<script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+
+    
+  </body>
+</html>
+

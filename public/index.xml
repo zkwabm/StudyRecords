@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Notes for Open Course: Deterministic Optimization</title>
+      <link>/2018/01/14/notes-for-open-course-deterministic-optimization/</link>
+      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/14/notes-for-open-course-deterministic-optimization/</guid>
+      <description>Week 1Introduction to optimization</description>
+    </item>
+    
+    <item>
+      <title>Notes for Open Course: Interactive Python Programming</title>
+      <link>/2018/01/14/notes-for-open-course-interactive-python-programming/</link>
+      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/14/notes-for-open-course-interactive-python-programming/</guid>
+      <description>Notes for the open course - Interactive Python Programming Week 1 - Expressions An easy environment: Codeskulptor  Python2 version: http://www.codeskulptor.org Python3 version: http://py3.codeskulptor.org/  Arithmetic Expressions # Arithmetic Expressions - numbers, operators, expressions print(3, -1, 3.14159, -2.8)  3 -1 3.14159 -2.8  # numbers - two types, an integer or a decimal number # two corresponding data types int() and float() print(type(3), type(3.14159)) print(type(3.0))  &amp;lt;class &#39;int&#39;&amp;gt; &amp;lt;class &#39;float&#39;&amp;gt; &amp;lt;class &#39;float&#39;&amp;gt;  # we can convert between data types using int() and float() # note that int() takes the &#39;whole&#39; part of a decimal number # float() applied to integers is boring print(int(3.</description>
+    </item>
+    
+    <item>
       <title>Notes for Open Course: Scentific Writing</title>
       <link>/2018/01/14/notes-for-open-course-scentific-writing/</link>
       <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
