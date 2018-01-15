@@ -1,0 +1,495 @@
+---
+title: "Notes for Open Course: Scentific Writing"
+output: 
+  html_notebook: 
+    number_sections: yes
+    toc: yes
+date: "`r Sys.Date()`"
+---
+# Unit 1
+## what makes a good writer
+- have something to say
+- logic thinking
+- simple, learnable rules of style
+
+## to be a better writer
+- read something, pay attention, imitate
+- write in a journal
+- let bad academic writing habits go
+- talking about the research before writing
+- do be boring, be interesting, engage readers
+- stop waiting for special inspiration, begin to write
+- writing is hard, admit it
+- do the first try quickly then revise
+- cut ruthlessly
+- find somebody else to give comments.
+- take risks
+
+## what not to do
+- too complicated to read, lose interesting <---> simple expression
+- not clear, obscure <---> clear definition
+- too many clunky nouns, they can be changed to spunky verbs <-> easy and interesting for readers
+
+## principles of effective writing
+- cut unnecessary words
+- use active voice: subject+ verb + object
+- use strong verbs rather than nouns, do not put too much distance between main verbs and subject
+
+## cut the clutter
+- try to take the extra words to see if it is better, or put it back
+- dead weight words and phrase
+- delete non-meaning words
+- do not use unnecessary jargon and acronyms
+- delete repeate words
+- do not use adverbs: very, really, quite, bascically, generally...
+- avoid slow the reader down: do not use unnecessary long phrase/words
+
+## tricks for cut clutters
+- eliminate negatives. e.g. not important-->unimportant; do not remember--> forget
+- eliminate there be
+- omit needless prepositions: e.g. on, that...
+
+# Unit 2
+## Use the active voice
+- emphasizes author responsibility
+- increases readability
+- reduces ambiguity
+- in methods section, passive voice is ok to use.
+
+## It's OK to use "We" and "I"
+- more readable e.g. To address the possibility, we constructed ...
+
+##  active voice practice
+
+## write with verbs
+- use strong verbs
+- do not turn verbs into nouns
+- do not bury the main verb
+
+## practice examples
+## a few grammar tips
+- 'data are' not 'data is'
+- Affect(verb, to influence) vs. effect(noun, noun form of this influence)
+- Compared to vs. compared with
+    - compared to = to point out similarities
+    - compared with = to point out differences between similar things(use more often in science)
+- that vs. which
+    - that: is the restrictive (defining) pronoun
+    - which: is the nonrestrictive (non-defining) pronoun (not affect the essential meaning)
+- do not use 'they' or 'their' when the subject is singular.
+
+# Unit 3
+## experiment with punctuation
+- dash: -blabla-
+- colon: :
+- increasing power to separate: comma(,), colon(:), dash, parentheses, semicolon(;), period
+- increasing formality: dash, parentheses, the others
+- semicolon: 
+    - connects two independent clauses
+    - separate items in lists that contain internal punctuation.
+- parentheses()
+    - can remove, not influence the meaning
+- colon
+    - after an independent clause to introduce a list, quote, explanation, conclusion, amplification.
+    - after colon, capitalize the first word of second sentence
+- dash
+    - use the dash to add emphasis
+    - insert an abrupt definition or description almost anywhere in the sentence
+    - do not overuse it
+    
+## Practice, colon and dash
+
+## Parallelism
+- lists of ideas sould be written in parallel form(same structures)
+- make a choice for the structure and stick to it
+
+## Paragraphs
+- level tips
+    - 1 paragraph = 1 idea (short, single idea, authors like whitespace)
+    - give away the punch line early(give the readers your point early and clearly)
+    - paragraph flow is helped by:
+        - logical flow of ideas
+            - sequential in time
+            - **genearl-->specific**
+            - logical arguments(if a then b; a; therefore b)
+        - parallel sentence structures
+        - if necessary, transition words (do not overuse)(just use 'and', 'but')
+    - the readers remember the first and last sentences best. Emphasis at the end!
+    
+
+## Paragraph Editing I
+- outline: what the paragraph trying to convey?
+
+## Paragraph Editing I
+- use upshot to summarize the main idea
+- organize all the upshots together
+- rewrite the paragraph
+
+## a few more tips
+- repetition questions:
+    - is the second instance of the word even necessary?
+    - tf the word is needed, is a synonym really better than just repeating the word? 
+
+- repetition tips
+    - **Repeat key words**: names of comparison groups, variables, or instruments 
+    - it is OK to repeat if necessary
+- acryonyms
+    - use only standard acrynoyms. e.g., RNA
+    - if must use acronyms, define them separately in the abstract, each table/figure, and the text. For long papers, redefine occasionally.
+    
+
+# Unit 4
+
+## More paragraph practice
+- possible rewrite: remove unrelated material
+- for two ideas, use two paragraphs rather than transition words. A paragraph should only has one main idea.
+- it is important to use logic to help paragraph flow.
+
+## Overview of the writing process
+1. prewriting (70% time)
+  - collect, synthesize, organize information
+  - brainstorm take-home messages
+  - work out ideas away rom the computer
+  - develop a road map/outline
+2. writing the first draft (10% time)
+  - putting your facts and ideas together in organized prose
+3. revision (20% time)
+  - read your work out loud
+  - get rid of clutter
+  - do a verb check
+  - get feedback from others
+  
+## the pre-writing step
+- tips: get organized first!
+    - don't try to write and gather information simultaneously
+    - gather and organize information **before** writing the first draft
+- create a organizational system
+    - collect all the information with details in an ongoing document/file
+    - organize them for different sections
+- develop a road-map
+    - arrange key facts and citations from the literature into a crude road map/outline **before** writing the first draft
+    - think in paragraph and sections ..
+- brainstorm away from the computer
+    - write on the go!
+        - while exercising
+        - while driving alone
+        - while waiting in line
+    - work out take-home messages
+    - organize your paper
+    - write memorable lines
+    
+- compositional organization
+    1. like ideas should be grouped.
+    2. like paragraph should be grouped.
+    3. don't 'bait-and-switch' your reader too many times.
+    
+## the writing step
+- tips for writing the first draft
+    - do not be a perfectionist
+    - goal: get the ideas down in complete sentences in order
+    - focus on logical organization more than sentence-level details
+    - write the first draft quickly and efficiently
+
+## revision
+- read your writing out loud
+- do a verb check
+    - underline the main verb in each sentence.
+        - lackluster verbs
+        - passive verbs
+        - buried verbs
+- cut
+    - dead weight words and phrases
+    - empty words and phrases
+    - long words or phrases that could be short
+    - unnecessary jargon and acronyms
+    - repetitive words or phrases
+    - adverbs
+- do an organizational review
+    - tag each paragraph with a phrase or sentence that sums up the main point
+    - then move paragrah around to improve logical flow and bring similar ideas together.
+- get outside feedback
+    - ask them to point out particularly hard-to-read sentences and paragraphs
+- get editing help
+
+## checklist for the final draft
+- checklist
+    - check for consistency
+    - check for numerical consistency 
+       - numbers in the abstract match the numbers in the tables/figures/text
+       - numbers in the text match those in the tables/figures
+       - numbers in each tables/figures match those in other tables/figures
+    - check your references
+        - do you have "reference to nowhere" ?
+        - reference does not provide the indicated information/fact
+            - misinterpreted or exaggerated the finding from original source
+            - citation propagation (cites from a secondary source rather than a primary source)
+            - mis-numbered the references
+        
+- take-home message
+    - always cite/go back to primary 
+    - assume other authors have made errors in citing sources
+
+
+# Unit 5
+
+## Tables and Figures
+
+- tips on making writing easier: break your writing task into **small and realistic goals**
+
+- recommended order for writing an original manuscript
+    1. tables and figures
+    2. results
+    3. methods
+    4. introduction
+    5. discussion
+    6. abstract
+
+ 
+- tables & figures: foundation of your story!
+    - should stand alone and tell a complete story
+    - use the fewest figures and tables needed to tell the story
+    - do not present the same data in both a figure and a table
+    
+- show results in table or figure?
+    - figures
+        - visual impact
+        - show trends and patterns
+        - tell a quick story
+        - tell the whole story
+        - highlight a particular result
+    - tables
+        - give precise values
+        - display many values/variables
+        
+- format of table 
+    - title
+        - identify the specific topic or point of the table
+        - use the same key terms in the table title, the column headings, and the text of the paper
+        - keep it brief
+    - footnotes
+        - use superscrip symbols to identify footnotes, according to journal guidelines
+        - use footnotes to explain statistically significant differences
+        - use footnotes to explain experimental details or abbreviations
+    - tips
+        - model your table from already published tables!
+        - follow journal guidelines
+        - three horizontal lines (most journals)
+        - remove grid lines
+        - give significant values
+        - give units 
+        - do not use too many columns, omit unnecessary columns
+- format of figures
+    - types
+        - primary evidence
+        - graphs
+        - drawings and diagrams
+    - legends: make the figure stand alone
+        - brief title
+        - essential experimental details
+        - definitioins of symbols or line/bar patterns
+        - explanation of panels (A,B,C,D,etc)
+        - statistical information (tests used, p-value)
+    - tips for Graphs
+        - line graphs: show trends over time, age, dose
+        - bar graphs: compare groups at one time point, tell a quick visual story; shade bar in grey color
+        - scatter plots: show relationships between two variables; allows reader to see individual data points = more information;
+        -special tips:
+            - tell a quick visual story
+            - keep it simple
+            - make it easy to distinguish groups
+            - if it's too complex, use tables
+    - tips for diagrams and drawings
+            - illustrate an experimental set-up or work-flow
+            - indicate flow of participants
+            - illustrate cause and effect relationships or cycles
+            - give a hypothetical model
+            - represent microscopic particles or microorganisms as cartoons
+        
+    - allow supplenmental materials
+
+## Results
+- **results not equal raw data!**
+- results section should:
+    - summarize what the data show
+        - point out simple relationships
+        - describe big-picture trends
+        - cite figures or tables that present supporting data
+    - avoid simply repeating he numbers that are already available in tables and figures
+- tips for writing results
+    - break into subsections, with headings(if needed)
+    - complement the information that is already in tables and figures
+        - give precise values that are not available in the figure
+        - report the percent change or percent difference if absolute values are given in the table
+    - repeat/highlight only the most important numbers
+    - don't forget to talk about negative and control results
+    - reserve the term 'significant' for statistically significant
+    - reserve information about what you did for the methods section
+        - in particular, do not discuss the rationale for statistical analyses within the results section
+    - reserve comments on the meaning of your results for the discussion section
+    - **what verb tense do I use**
+        - use past tense for completed actions
+            - we found that ...
+            - the average reaction time was ...
+            - women were more likely to ...
+            - mean smoked more cigarettes than ...
+        - use the present tense for assertions that continue to be true, such as what the tables show, what you believe, and what the data suggest
+            - figure 1 shows ...
+            - the findings confirm ...
+            - the data suggest... 
+            - we believe the data show ...
+    - **use the active voice!**
+        - more lively
+        - since you can talk about the subjects of your experiments, 'we' can be used sparingly while maintaining the active voice
+
+## Practice writing results
+
+## Methods
+- content: who, what, when, where, how and why
+    - give a clear overview of what was done
+    - give enough information to replicate the study
+    - be complete, but make life easy for your reader
+        - break into smaller sections with subheadings
+        - cite a reference for commonly used methods
+        - display in a flow diagram or table where possible
+    - you may use jargon and passive voice (or the combinations of passive and active voice) more liberally in the methods sections
+- structure
+    - materials
+    - participants/subjects (if involve animals or humans)
+    - experimental protocol/study design
+    - measurements
+    - analyses
+- tense
+    - report methods in past tense ('we measured')
+    - use present tense to describel how data are presented in the papaer ('data are summarized as ...')
+
+## Introduction
+- principles
+    - more easier than you think
+    - typically 3 paragraph long (2~5)
+    - it is **not** an exhaustive review of your general topic - should focus on the specific hypothesis/aim of your study
+
+- structure(1 - paragrah 1; 2 - paragraph 2; 3&4 - paragraph 3)
+    1. background, known information - what's known
+    2. knowledge gap, unknown information - what's unknown
+    3. hypothesis, question, prupose statement - your burning question
+    4. approach, plan of attack, proposed solution - your experimental approach; why your experimental approach is new and different and important (fills in the gaps)
+
+- tips
+    - keep paragraph short
+    - write for a general audience: **clear, concise, non-technical**
+    - take the reader step by step from what is known to what is unknown. End with your specific question: **known->unknown->question/hypothesis**
+    - emphasize how your study fills in the gaps (the unknown)
+    - explicitly state your research question/aim/hypothesis:
+    - do not answer the research question (no results or implications)
+    - summarize at a high level. Leave detailed descriptions, speculations, and criticisms of particular studies for the discussion.
+    
+## Introduction practice    
+
+## Discussion
+- rules
+    1. answer the question asked.
+    2. support your conclusion (your data, others' data)
+    3. defend your conclusion (anticipate criticisms)
+    4. give the "big-picture" take-home message: what do my results mean and why should anyone care?
+
+- one way of organization
+    1. key findings 
+        - start with: e.g., "we found that ..."
+        - explain what the data mean (big-picture)
+        - state if the findings are novel
+    2. key secondary findings
+    3. context
+        - give possible mechanisms or pathways
+        - compare your results with other people's results
+        - discuss how your findings support or challenge the paradigm
+    4. strengths and limitations
+        - anticipate readers' questions/criticisms
+        - explain why your results are robust
+    5. what's next
+        - recommended confirmatory studies ("needs to be confirmed")
+        - point out unanswered questions and future directions
+    6. the "so what?": implicate, speculate, recommend
+        - give the big-picture (human) implications of basic science findings
+        - tell readers why they should care
+    7. strong conclusion (some journals need a single section)
+        - restate your main findings
+        - give a final take-home message
+
+- tips
+    - showcase good writing
+        - use the active voice
+        - tell it like a story
+    - start and end with the main finding (it's ok to repeatition)
+        - we found that ...
+    - do not travel too far from your data
+        - focus on what your data do prove, not what you had hoped your data would prove
+    - focus on the limitations that matter, not generic limitations
+    - make sure your take-home message is clear and consistent
+
+- what not to do
+    - do not start discussion with limitations
+- verb tense
+    - past: when referring to study details, results, analyses, and background research
+        - we found that ...
+        - subjects may have experienced ...
+        - Sb et al. found ...
+    - present, when talking about waht the data suggest
+        - the greater weight loss suggests ...
+        - the explanation for this difference is not clear ...
+        - potential explanations include ...
+
+## Abstract- To Pull Out
+- rules
+    - overview of the main story
+    - give highlights form each section of the paper
+    - limited length (100-300 words, typically)
+    - stands on its own
+    - most often, the only people read
+
+- content
+    1. background
+    2. question/aim/hypothesis
+        - we asked whether, we hypothesized that, ...
+    3. experiments
+        - quick summary of key materials and methods
+    4. results
+        - key results found
+        - minimal raw data (prefer summaries)
+    5. conclusion
+        - the answer to question asked/take-home message
+    6. implication, speculation, or recommendation
+
+- forms
+  1. structured style. e.g., objectives, design, setting, participants, intervention, main outcome measures, results, conclusions
+  2. free style
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

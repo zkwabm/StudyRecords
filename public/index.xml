@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Hugo website</title>
+    <link>/</link>
+    <description>Recent content on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notes for Open Course: Scentific Writing</title>
+      <link>/2018/01/14/notes-for-open-course-scentific-writing/</link>
+      <pubDate>Sun, 14 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/14/notes-for-open-course-scentific-writing/</guid>
+      <description>Unit 1what makes a good writerhave something to saylogic thinkingsimple, learnable rules of styleto be a better writerread something, pay attention, imitatewrite in a journallet bad academic writing habits gotalking about the research before writingdo be boring, be interesting, engage readersstop waiting for special inspiration, begin to writewriting is hard, admit itdo the first try quickly then revisecut ruthlesslyfind somebody else to give comments.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is a simple blog for recording study notes. The keywords invlove: English study, machine learning, data mining, optimization, network.</description>
+    </item>
+    
+  </channel>
+</rss>
